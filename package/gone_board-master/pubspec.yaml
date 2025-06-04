@@ -1,0 +1,44 @@
+name: gone_board
+description: "A stylish and animated onboarding screen for your App. It's easy to use light weight and customizable."
+version: 1.0.5
+homepage: https://github.com/ratulhasanruhan/gone_board
+repository: https://github.com/ratulhasanruhan/gone_board
+issue_tracker: https://github.com/ratulhasanruhan/gone_board/issues
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+topics:
+  - onboarding
+  - animated
+  - pageview
+
+documentation: https://pub.dev/packages/gone_board
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_animate: ^4.5.0
+  smooth_page_indicator: ^1.1.0
+  starsview: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+
+# To add assets to your package, add an assets section, like this:

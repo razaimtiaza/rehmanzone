@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "urdu": "یا رزاق",
+        "english": "Ya Razzaq",
+        "purpose": "For increase in sustenance",
+        "count": 100
+    },
+    {
+        "id": 2,
+        "urdu": "یا لطیف",
+        "english": "Ya Latif",
+        "purpose": "For ease in difficulties",
+        "count": 129
+    },
+    {
+        "id": 3,
+        "urdu": "یا رحمن",
+        "english": "Ya Rahman",
+        "purpose": "To soften someone’s heart",
+        "count": 100
+    },
+    {
+        "id": 4,
+        "urdu": "یا رحیم",
+        "english": "Ya Rahim",
+        "purpose": "For mercy and kindness",
+        "count": 100
+    },
+    {
+        "id": 5,
+        "urdu": "یا سلام",
+        "english": "Ya Salam",
+        "purpose": "For peace and protection",
+        "count": 160
+    },
+    {
+        "id": 6,
+        "urdu": "یا اللہ",
+        "english": "Ya Allah",
+        "purpose": "For every need",
+        "count": 66
+    },
+    {
+        "id": 7,
+        "urdu": "یا فتاح",
+        "english": "Ya Fattah",
+        "purpose": "For opening closed paths",
+        "count": 71
+    },
+    {
+        "id": 8,
+        "urdu": "یا بصیر",
+        "english": "Ya Baseer",
+        "purpose": "To increase insight and vision",
+        "count": 100
+    },
+    {
+        "id": 9,
+        "urdu": "یا سمیع",
+        "english": "Ya Sami’",
+        "purpose": "For acceptance of dua",
+        "count": 100
+    },
+    {
+        "id": 10,
+        "urdu": "یا شافی",
+        "english": "Ya Shafi",
+        "purpose": "For healing",
+        "count": 41
+    },
+    {
+        "id": 11,
+        "urdu": "یا کریم",
+        "english": "Ya Kareem",
+        "purpose": "For honor and dignity",
+        "count": 270
+    },
+    {
+        "id": 12,
+        "urdu": "یا مالک الملک",
+        "english": "Ya Malik-ul-Mulk",
+        "purpose": "For authority and control",
+        "count": 212
+    },
+    {
+        "id": 13,
+        "urdu": "یا مغنی",
+        "english": "Ya Mughni",
+        "purpose": "To remove poverty",
+        "count": 1100
+    },
+    {
+        "id": 14,
+        "urdu": "یا ودود",
+        "english": "Ya Wadood",
+        "purpose": "For love and harmony",
+        "count": 1000
+    },
+    {
+        "id": 15,
+        "urdu": "یا حکیم",
+        "english": "Ya Hakeem",
+        "purpose": "To increase wisdom",
+        "count": 78
+    },
+    {
+        "id": 16,
+        "urdu": "یا نور",
+        "english": "Ya Noor",
+        "purpose": "To remove darkness of heart",
+        "count": 256
+    },
+    {
+        "id": 17,
+        "urdu": "یا جبار",
+        "english": "Ya Jabbar",
+        "purpose": "For strength and power",
+        "count": 206
+    },
+    {
+        "id": 18,
+        "urdu": "یا ستار",
+        "english": "Ya Sattar",
+        "purpose": "For covering sins and mistakes",
+        "count": 100
+    },
+    {
+        "id": 19,
+        "urdu": "یا حلیم",
+        "english": "Ya Haleem",
+        "purpose": "For patience and calmness",
+        "count": 88
+    },
+    {
+        "id": 20,
+        "urdu": "یا رافع",
+        "english": "Ya Rafi",
+        "purpose": "For increase in status",
+        "count": 351
+    },
+    {
+        "id": 21,
+        "urdu": "استغفراللہ",
+        "english": "Astaghfirullah",
+        "purpose": "For forgiveness",
+        "count": 100
+    },
+    {
+        "id": 22,
+        "urdu": "لاحول ولاقوۃ الا باللہ",
+        "english": "La hawla wa la quwwata illa billah",
+        "purpose": "For removing hardships",
+        "count": 100
+    },
+    {
+        "id": 23,
+        "urdu": "حسبی اللہ لا الہ الا ہو",
+        "english": "Hasbiyallahu La Ilaha Illa Huwa",
+        "purpose": "For protection and help",
+        "count": 70
+    },
+    {
+        "id": 24,
+        "urdu": "اللہم صل علی محمد",
+        "english": "Allahumma Salli Ala Muhammad",
+        "purpose": "For blessings and acceptance of dua",
+        "count": 100
+    },
+    {
+        "id": 25,
+        "urdu": "الحمدللہ",
+        "english": "Alhamdulillah",
+        "purpose": "To thank Allah",
+        "count": 100
+    },
+    {
+        "id": 26,
+        "urdu": "سبحان اللہ",
+        "english": "Subhanallah",
+        "purpose": "To glorify Allah",
+        "count": 100
+    },
+    {
+        "id": 27,
+        "urdu": "اللہ اکبر",
+        "english": "Allahu Akbar",
+        "purpose": "For strength and courage",
+        "count": 100
+    },
+    {
+        "id": 28,
+        "urdu": "لا الہ الا اللہ",
+        "english": "La ilaha illallah",
+        "purpose": "For strong faith",
+        "count": 100
+    },
+    {
+        "id": 29,
+        "urdu": "یا غفور",
+        "english": "Ya Ghafoor",
+        "purpose": "For forgiveness of sins",
+        "count": 100
+    },
+    {
+        "id": 30,
+        "urdu": "یا نافع",
+        "english": "Ya Nafi",
+        "purpose": "For benefit in all matters",
+        "count": 201
+    },
+    {
+        "id": 31,
+        "urdu": "یا ضار",
+        "english": "Ya Darr",
+        "purpose": "For protection from harm",
+        "count": 100
+    },
+    {
+        "id": 32,
+        "urdu": "یا قیوم",
+        "english": "Ya Qayyum",
+        "purpose": "For strength in times of weakness",
+        "count": 1000
+    },
+    {
+        "id": 33,
+        "urdu": "یا عزیز",
+        "english": "Ya Aziz",
+        "purpose": "For respect and strength",
+        "count": 40
+    },
+    {
+        "id": 34,
+        "urdu": "یا تواب",
+        "english": "Ya Tawwab",
+        "purpose": "For sincere repentance",
+        "count": 300
+    },
+    {
+        "id": 35,
+        "urdu": "یا واسع",
+        "english": "Ya Wasi",
+        "purpose": "For blessings in wealth",
+        "count": 137
+    },
+    {
+        "id": 36,
+        "urdu": "یا ودود",
+        "english": "Ya Wadood",
+        "purpose": "For increase in love between husband and wife",
+        "count": 1000
+    },
+    {
+        "id": 37,
+        "urdu": "یا قابض",
+        "english": "Ya Qabiz",
+        "purpose": "To overcome bad habits",
+        "count": 70
+    },
+    {
+        "id": 38,
+        "urdu": "یا باسط",
+        "english": "Ya Basit",
+        "purpose": "For rizq and comfort",
+        "count": 72
+    },
+    {
+        "id": 39,
+        "urdu": "یا مالک",
+        "english": "Ya Malik",
+        "purpose": "For control and peace of mind",
+        "count": 121
+    },
+    {
+        "id": 40,
+        "urdu": "یا مومن",
+        "english": "Ya Mumin",
+        "purpose": "For safety from fear",
+        "count": 136
+    }
+]

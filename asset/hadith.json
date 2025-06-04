@@ -1,0 +1,54 @@
+{
+    "topics": [
+        {
+            "topic": "Business and Trade",
+            "hadiths": [
+                {
+                    "id": 1,
+                    "arabicText": "إِنَّ أَطْيَبَ مَا أَكَلَ الرَّجُلُ مِنْ كَسْبِهِ، وَإِنَّ وَلَدَهُ مِنْ كَسْبِهِ",
+                    "englishTranslation": "The best food a man eats is from his own earnings, and his children are from his earnings.",
+                    "urduTranslation": "آدمی کا سب سے عمدہ کھانا وہ ہے جو اس کی اپنی کمائی کا ہو، اور اس کی اولاد بھی اس کی کمائی ہے۔",
+                    "narrator": "Narrated by Aisha (رضی اللہ عنہا)"
+                },
+                {
+                    "id": 2,
+                    "arabicText": "مَا كَسَبَ الرَّجُلُ كَسْبًا أَطْيَبَ مِنْ عَمَلِ يَدِهِ...",
+                    "englishTranslation": "No earnings are better for a man than those earned by his own hands...",
+                    "urduTranslation": "آدمی کی کوئی کمائی اس کمائی سے بہتر نہیں جسے اس نے اپنی محنت سے کمایا ہو...",
+                    "narrator": "Narrated by Al-Miqdam bin Ma’dikarib (رضی اللہ عنہ)"
+                },
+                {
+                    "id": 3,
+                    "arabicText": "التَّاجِرُ الْأَمِينُ الصَّدُوقُ الْمُسْلِمُ مَعَ الشُّهَدَاءِ...",
+                    "englishTranslation": "The honest, trustworthy Muslim merchant will be among the martyrs on the Day of Judgment.",
+                    "urduTranslation": "سچا، امانت دار مسلمان تاجر قیامت کے دن شہداء کے ساتھ ہو گا۔",
+                    "narrator": "Narrated by Abdullah ibn Umar (رضی اللہ عنہما)"
+                }
+            ]
+        },
+        {
+            "topic": "Charity",
+            "hadiths": [
+                {
+                    "id": 4,
+                    "arabicText": "السَّاعِي عَلَى الْأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ...",
+                    "englishTranslation": "The one who looks after a widow or a poor person is like a warrior...",
+                    "urduTranslation": "جو شخص بیوہ اور مسکین کی مدد کرتا ہے وہ مجاہد کے مانند ہے...",
+                    "narrator": "Narrated by Abu Huraira (رضی اللہ عنہ)"
+                }
+            ]
+        },
+        {
+            "topic": "Knowledge",
+            "hadiths": [
+                {
+                    "id": 5,
+                    "arabicText": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ...",
+                    "englishTranslation": "Seeking knowledge is obligatory upon every Muslim.",
+                    "urduTranslation": "علم حاصل کرنا ہر مسلمان پر فرض ہے۔",
+                    "narrator": "Narrated by Anas bin Malik (رضی اللہ عنہ)"
+                }
+            ]
+        }
+    ]
+}
